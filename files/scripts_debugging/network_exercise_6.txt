@@ -1,0 +1,14 @@
+Pu.1 Pu.1 Runx1 Gata1
+Runx1,Runx1,Pu.1,Erg
+Smad6 Runx1
+Eto2 Erg
+Gata1 Gata1 Scl
+Scl Scl Gata1 Gata2 Hhex Zfpm1 Fli1 Erg Smad6 Runx1 Eto2
+Fli1 Fli1 Runx1 Pu.1 Scl Gata2 Hhex Erg Smad6
+Runx1
+
+Erg Smad6 Runx1 Erg Hhex Gata2 Fli1
+Zfpm1 Gata2 
+Gata2 Zfpm1 Runx1 Smad6 Eto2 Scl Gata2 Hhex Fli1 Erg 
+Gata1 Pu.1 Gata2
+Hhex Gata2
